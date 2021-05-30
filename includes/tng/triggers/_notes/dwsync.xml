@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".tidyconf" server="ftp.siteconn.com.br/www/" local="130576835915035936" remote="130542243000000000" Dst="2" />
+<file name="tNG_Captcha.class.php" server="ftp.siteconn.com.br/www/" local="130576835919456189" remote="130542243000000000" Dst="2" />
+<file name="tNG_CheckDetailRecord.class.php" server="ftp.siteconn.com.br/www/" local="130576835919466190" remote="130542243000000000" Dst="2" />
+<file name="tNG_CheckMasterRecord.class.php" server="ftp.siteconn.com.br/www/" local="130576835919636200" remote="130542243000000000" Dst="2" />
+<file name="tNG_CheckTableField.class.php" server="ftp.siteconn.com.br/www/" local="130576835924616484" remote="130542243000000000" Dst="2" />
+<file name="tNG_CheckUnique.class.php" server="ftp.siteconn.com.br/www/" local="130576835924616484" remote="130542243000000000" Dst="2" />
+<file name="tNG_ChkForbiddenWords.class.php" server="ftp.siteconn.com.br/www/" local="130576835924976505" remote="130542243000000000" Dst="2" />
+<file name="tNG_DeleteDetailRec.class.php" server="ftp.siteconn.com.br/www/" local="130576835928136686" remote="130542243000000000" Dst="2" />
+<file name="tNG_DeleteFolder.class.php" server="ftp.siteconn.com.br/www/" local="130576835928136686" remote="130542243000000000" Dst="2" />
+<file name="tNG_Download.class.php" server="ftp.siteconn.com.br/www/" local="130576835932196918" remote="130542243000000000" Dst="2" />
+<file name="tNG_DynamicMedia.class.php" server="ftp.siteconn.com.br/www/" local="130576835932196918" remote="130542243000000000" Dst="2" />
+<file name="tNG_DynamicThumbnail.class.php" server="ftp.siteconn.com.br/www/" local="130576835935267094" remote="130542243000000000" Dst="2" />
+<file name="tNG_Email.class.php" server="ftp.siteconn.com.br/www/" local="130576835935267094" remote="130542243000000000" Dst="2" />
+<file name="tNG_EmailPageSection.class.php" server="ftp.siteconn.com.br/www/" local="130576835935427103" remote="130542243000000000" Dst="2" />
+<file name="tNG_EmailRecordset.class.php" server="ftp.siteconn.com.br/www/" local="130576835939087312" remote="130542243000000000" Dst="2" />
+<file name="tNG_FieldCompare.class.php" server="ftp.siteconn.com.br/www/" local="130576835939087312" remote="130542243000000000" Dst="2" />
+<file name="tNG_FileDelete.class.php" server="ftp.siteconn.com.br/www/" local="130576835939377329" remote="130542243000000000" Dst="2" />
+<file name="tNG_FileListRecordset.class.php" server="ftp.siteconn.com.br/www/" local="130576835942807525" remote="130542243000000000" Dst="2" />
+<file name="tNG_FileUpload.class.php" server="ftp.siteconn.com.br/www/" local="130576835942807525" remote="130542243000000000" Dst="2" />
+<file name="tNG_FormValidation.class.php" server="ftp.siteconn.com.br/www/" local="130576835945527680" remote="130542243000000000" Dst="2" />
+<file name="tNG_ImageUpload.class.php" server="ftp.siteconn.com.br/www/" local="130576835945527680" remote="130542243000000000" Dst="2" />
+<file name="tNG_LinkedTrans.class.php" server="ftp.siteconn.com.br/www/" local="130576835945587684" remote="130542243000000000" Dst="2" />
+<file name="tNG_Logout.class.php" server="ftp.siteconn.com.br/www/" local="130576835950727978" remote="130542243000000000" Dst="2" />
+<file name="tNG_MFileUpload.class.php" server="ftp.siteconn.com.br/www/" local="130576835950737978" remote="130542243000000000" Dst="2" />
+<file name="tNG_MImageUpload.class.php" server="ftp.siteconn.com.br/www/" local="130576835950917989" remote="130542243000000000" Dst="2" />
+<file name="tNG_ManyToMany.class.php" server="ftp.siteconn.com.br/www/" local="130576835953978164" remote="130542243000000000" Dst="2" />
+<file name="tNG_MtmFakeRs.class.php" server="ftp.siteconn.com.br/www/" local="130576835953988164" remote="130542243000000000" Dst="2" />
+<file name="tNG_MuploadHelper.class.php" server="ftp.siteconn.com.br/www/" local="130576835954308183" remote="130542243000000000" Dst="2" />
+<file name="tNG_Redirect.class.php" server="ftp.siteconn.com.br/www/" local="130576835958348414" remote="130542243000000000" Dst="2" />
+<file name="tNG_RestrictAccess.class.php" server="ftp.siteconn.com.br/www/" local="130576835958348414" remote="130542243000000000" Dst="2" />
+<file name="tNG_SetOrderField.class.php" server="ftp.siteconn.com.br/www/" local="130576835958428418" remote="130542243000000000" Dst="2" />
+<file name="tNG_ThrowError.class.php" server="ftp.siteconn.com.br/www/" local="130576835961678604" remote="130542243000000000" Dst="2" />
+<file name="tNG_TidyContent.class.php" server="ftp.siteconn.com.br/www/" local="130576835961678604" remote="130542243000000000" Dst="2" />
+<file name="tNG_TidyContent.inc.php" server="ftp.siteconn.com.br/www/" local="130576835961698605" remote="130542243000000000" Dst="2" />
+<file name="tNG_UserLoggedIn.class.php" server="ftp.siteconn.com.br/www/" local="130576835964988794" remote="130542243000000000" Dst="2" />
+<file name="tNG_defTrigg.inc.php" server="ftp.siteconn.com.br/www/" local="130576835967418933" remote="130542243000000000" Dst="2" />
+</dwsync>

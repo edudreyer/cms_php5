@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tNG.class.php" server="ftp.siteconn.com.br/www/" local="130576835883164113" remote="130542243000000000" Dst="2" />
+<file name="tNG.inc.php" server="ftp.siteconn.com.br/www/" local="130576836786545784" remote="130542243000000000" Dst="2" />
+<file name="tNG_config.inc.php" server="ftp.siteconn.com.br/www/" local="130576835887054336" remote="130542243000000000" Dst="2" />
+<file name="tNG_custom.class.php" server="ftp.siteconn.com.br/www/" local="130576835893284692" remote="130542243000000000" Dst="2" />
+<file name="tNG_delete.class.php" server="ftp.siteconn.com.br/www/" local="130576835893284692" remote="130542243000000000" Dst="2" />
+<file name="tNG_dispatcher.class.php" server="ftp.siteconn.com.br/www/" local="130576835893954731" remote="130542243000000000" Dst="2" />
+<file name="tNG_error.class.php" server="ftp.siteconn.com.br/www/" local="130576835898454988" remote="130542243000000000" Dst="2" />
+<file name="tNG_fields.class.php" server="ftp.siteconn.com.br/www/" local="130576835898464989" remote="130542243000000000" Dst="2" />
+<file name="tNG_functions.inc.php" server="ftp.siteconn.com.br/www/" local="130576835901855183" remote="130542243000000000" Dst="2" />
+<file name="tNG_import.class.php" server="ftp.siteconn.com.br/www/" local="130576835901865183" remote="130542243000000000" Dst="2" />
+<file name="tNG_insert.class.php" server="ftp.siteconn.com.br/www/" local="130576835902075195" remote="130542243000000000" Dst="2" />
+<file name="tNG_log.class.php" server="ftp.siteconn.com.br/www/" local="130576835905725404" remote="130542243000000000" Dst="2" />
+<file name="tNG_login.class.php" server="ftp.siteconn.com.br/www/" local="130576835905725404" remote="130542243000000000" Dst="2" />
+<file name="tNG_logoutTransaction.class.php" server="ftp.siteconn.com.br/www/" local="130576835905795408" remote="130542243000000000" Dst="2" />
+<file name="tNG_multiple.class.php" server="ftp.siteconn.com.br/www/" local="130576835908595568" remote="130542243000000000" Dst="2" />
+<file name="tNG_multipleDelete.class.php" server="ftp.siteconn.com.br/www/" local="130576835908605569" remote="130542243000000000" Dst="2" />
+<file name="tNG_multipleInsert.class.php" server="ftp.siteconn.com.br/www/" local="130576835908675573" remote="130542243000000000" Dst="2" />
+<file name="tNG_multipleUpdate.class.php" server="ftp.siteconn.com.br/www/" local="130576835914785922" remote="130542243000000000" Dst="2" />
+<file name="tNG_update.class.php" server="ftp.siteconn.com.br/www/" local="130576835914785922" remote="130542243000000000" Dst="2" />
+</dwsync>

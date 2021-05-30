@@ -1,0 +1,40 @@
+[08-Oct-2014 09:29:45 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/sitecon2/public_html/sitepack/delete.php on line 10
+[08-Oct-2014 09:30:01 America/Sao_Paulo] PHP Warning:  unlink(menu.php): No such file or directory in /home/sitecon2/public_html/sitepack/delete.php on line 9
+[08-Oct-2014 09:30:01 America/Sao_Paulo] PHP Warning:  mkdir(): Permission denied in /home/sitecon2/public_html/sitepack/delete.php on line 10
+[08-Oct-2014 09:32:48 America/Sao_Paulo] PHP Warning:  unlink(menu.php): No such file or directory in /home/sitecon2/public_html/sitepack/delete.php on line 9
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(menu.php): No such file or directory in /home/sitecon2/public_html/sitepack/delete.php on line 9
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/nxt): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/mxi): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/nav): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/tfi): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/common): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/resources): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/tng): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/skins): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/wdg): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/XMLExport): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/qub): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/mailtemplates): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/tso): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:33:18 America/Sao_Paulo] PHP Warning:  unlink(includes/tor): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(menu.php): No such file or directory in /home/sitecon2/public_html/sitepack/delete.php on line 9
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:34:31 America/Sao_Paulo] PHP Warning:  unlink(includes/): Is a directory in /home/sitecon2/public_html/sitepack/delete.php on line 25
+[08-Oct-2014 09:35:07 America/Sao_Paulo] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/slide.php on line 24
+[08-Oct-2014 09:35:07 America/Sao_Paulo] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/slide.php on line 24
+[08-Oct-2014 09:35:07 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitecon2/public_html/sitepack/slide.php on line 24
+[08-Oct-2014 09:35:10 America/Sao_Paulo] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/slide.php on line 24
+[08-Oct-2014 09:35:10 America/Sao_Paulo] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/slide.php on line 24
+[08-Oct-2014 09:35:10 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitecon2/public_html/sitepack/slide.php on line 24

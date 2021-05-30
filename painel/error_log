@@ -1,0 +1,17 @@
+[03-Sep-2014 11:45:08 America/Sao_Paulo] PHP Warning:  include(rodape.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/painel/agenda.php on line 284
+[03-Sep-2014 11:45:08 America/Sao_Paulo] PHP Warning:  include(rodape.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/painel/agenda.php on line 284
+[03-Sep-2014 11:45:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'rodape.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitecon2/public_html/sitepack/painel/agenda.php on line 284
+[03-Sep-2014 12:33:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/sitecon2/public_html/sitepack/painel/noticias2.php on line 242
+[03-Sep-2014 12:34:08 America/Sao_Paulo] PHP Warning:  include(../fckeditor/fckeditor.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/painel/noticias2.php on line 280
+[03-Sep-2014 12:34:08 America/Sao_Paulo] PHP Warning:  include(../fckeditor/fckeditor.php): failed to open stream: No such file or directory in /home/sitecon2/public_html/sitepack/painel/noticias2.php on line 280
+[03-Sep-2014 12:34:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening '../fckeditor/fckeditor.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitecon2/public_html/sitepack/painel/noticias2.php on line 280
+[03-Sep-2014 12:34:08 America/Sao_Paulo] PHP Fatal error:  Class 'FCKeditor' not found in /home/sitecon2/public_html/sitepack/painel/noticias2.php on line 283
+[03-Sep-2014 19:43:46 America/Sao_Paulo] PHP Strict Standards:  Only variables should be passed by reference in /home/sitecon2/public_html/sitepack/painel/servicos2_dtjsxb8wj6.php on line 15
+[03-Sep-2014 19:43:46 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sitecon2/public_html/sitepack/painel/servicos2_dtjsxb8wj6.php:15) in /home/sitecon2/public_html/sitepack/painel/sessao.php on line 44
+[03-Sep-2014 19:43:47 America/Sao_Paulo] PHP Strict Standards:  Only variables should be passed by reference in /home/sitecon2/public_html/sitepack/painel/servicos2_dtkjsb8wj7.php on line 16
+[03-Sep-2014 19:43:47 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sitecon2/public_html/sitepack/painel/servicos2_dtkjsb8wj7.php:16) in /home/sitecon2/public_html/sitepack/painel/sessao.php on line 44
+[07-Oct-2014 08:54:51 America/Sao_Paulo] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/sitecon2/public_html/sitepack/painel/agendas2.php on line 337
+[07-Oct-2014 08:54:52 America/Sao_Paulo] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/sitecon2/public_html/sitepack/painel/agendas2.php on line 337
+[07-Oct-2014 11:14:32 America/Sao_Paulo] PHP Fatal error:  Class 'TFI_TableFilter' not found in /home/sitecon2/public_html/sitepack/painel/servicos_enviar.php on line 33
+[07-Oct-2014 11:15:01 America/Sao_Paulo] PHP Fatal error:  Class 'TFI_TableFilter' not found in /home/sitecon2/public_html/sitepack/painel/servicos_enviar.php on line 33
+[07-Oct-2014 11:15:03 America/Sao_Paulo] PHP Fatal error:  Class 'TFI_TableFilter' not found in /home/sitecon2/public_html/sitepack/painel/servicos_enviar.php on line 33
